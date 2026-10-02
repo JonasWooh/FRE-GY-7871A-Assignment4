@@ -1,0 +1,7 @@
+data/
+results/
+results_vader/
+models/
+validation/
+__pycache__/
+*.pyc

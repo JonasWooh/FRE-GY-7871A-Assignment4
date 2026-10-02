@@ -1,0 +1,10 @@
+pandas==3.0.5
+numpy==2.4.6
+scipy==1.17.1
+statsmodels==0.15.0
+vaderSentiment==3.3.2
+requests==2.34.2
+beautifulsoup4==4.15.0
+transformers==5.17.0
+onnxruntime==1.30.0
+huggingface-hub==1.31.0
